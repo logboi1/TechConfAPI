@@ -26,5 +26,7 @@ namespace DateNight.API.Data
 
         public DbSet<Programs> Programs { get; set; }
 
+        public DbSet<QuickNews> QuickNews { get; set; }
+
     }
 }
