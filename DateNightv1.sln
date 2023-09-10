@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateNight.API", "DateNight.API\DateNight.API.csproj", "{99567BF0-A65A-414F-928B-31BB4B5754E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99567BF0-A65A-414F-928B-31BB4B5754E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99567BF0-A65A-414F-928B-31BB4B5754E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99567BF0-A65A-414F-928B-31BB4B5754E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99567BF0-A65A-414F-928B-31BB4B5754E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {771042B8-6529-48F0-890A-3E65FA0D07E1}
+	EndGlobalSection
+EndGlobal
